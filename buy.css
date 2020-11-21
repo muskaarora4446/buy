@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #120078;
+}
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 30px;
+  background-color: #bce6eb;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
